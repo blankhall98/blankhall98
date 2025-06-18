@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jonatan Blank Hall
 
-<!--
-**blankhall98/blankhall98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Quantitative Developer and Economic Analyst with a Master’s in Economic Growth, Development, and Population from Lund University, and a Bachelor’s in Applied Mathematics from UNAM, Mexico.
 
-Here are some ideas to get you started:
+🚀 I’m also the founder of [Zero2Hero](https://www.zero2hero.lat) — a programming academy and tech consultancy that has educated over 1,000 students across Latin America and Spain and delivered freelance solutions to NGOs and startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- 🌎 Causal Inference & Development Economics (DiD, IV, Synthetic Control, Policy Evaluation)
+- 🧮 Applied Math & Statistics (ODEs, stochastic processes, Bayesian inference)
+- 🧑‍💻 Full-Stack Development with Python (Flask, FastAPI), SQL, and JavaScript (React)
+- 🤖 Machine Learning & NLP (scikit-learn, TensorFlow, Transformers)
+- 🛠️ Data Engineering & Automation (ETL pipelines, Selenium/BeautifulSoup scraping)
+
+## 📁 What You’ll Find Here
+
+- 🏫 Repositories for Zero2Hero courses and workshops
+- 🔍 Personal projects in data science, econometrics, and policy
+- ⚙️ Freelance/consulting projects (sanitized) built with Python, SQL, Flask, and more
+- 📊 Visualizations, dashboards, and web apps built with Plotly, Shiny, and Streamlit
+
+## 🌍 Languages
+
+- Spanish 🇲🇽 – Native  
+- English 🇬🇧 – Fluent  
+- French 🇫🇷 / German 🇩🇪 – Intermediate (B1 certified)  
+- Swedish 🇸🇪 – Basic
+
+## 📫 Let’s Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/blankhall-jonatan)
+- 🌐 [Portfolio Website](https://www.blankhall.com)
+- 🧠 [Zero2Hero](https://www.zero2hero.lat)
